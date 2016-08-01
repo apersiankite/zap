@@ -31,6 +31,10 @@ android {
     }
 }
 
+repositories {
+    mavenCentral()
+}
+
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
@@ -40,4 +44,6 @@ dependencies {
     compile 'com.android.support:design:24.1.1'
     compile 'com.android.support:appcompat-v7:24.1.1'
     compile "com.github.aurae.retrofit2:converter-logansquare:1.4.1"
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    compile 'com.google.android.gms:play-services-auth:9.2.1'
 }
