@@ -1,4 +1,4 @@
-package com.zoomcar.zap.utils;
+package com.zap.utils;
 
 /**
  * Created by Prateek on 01/08/16.

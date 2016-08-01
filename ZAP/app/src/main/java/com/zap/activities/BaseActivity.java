@@ -1,4 +1,4 @@
-package com.zoomcar.zap.activities;
+package com.zap.activities;
 
 import android.support.v7.app.AppCompatActivity;
 

@@ -1,10 +1,10 @@
-package com.zoomcar.zap.applications;
+package com.zap.applications;
 
 import android.app.Application;
 
-import com.zoomcar.zap.network.NetworkManager;
-import com.zoomcar.zap.utils.Logger;
-import com.zoomcar.zap.utils.SharedPrefUtil;
+import com.zap.network.NetworkManager;
+import com.zap.utils.Logger;
+import com.zap.utils.SharedPrefUtil;
 
 /**
  * Created by Prateek on 01/08/16.

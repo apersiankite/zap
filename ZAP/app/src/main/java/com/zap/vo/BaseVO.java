@@ -1,4 +1,4 @@
-package com.zoomcar.zap.vo;
+package com.zap.vo;
 
 import android.os.Parcel;
 import android.os.Parcelable;

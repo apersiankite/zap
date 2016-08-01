@@ -1,4 +1,4 @@
-package com.zoomcar.zap.network;
+package com.zap.network;
 
 /**
  * Created by Prateek on 01/08/16.

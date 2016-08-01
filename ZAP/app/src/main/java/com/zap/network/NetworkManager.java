@@ -1,12 +1,12 @@
-package com.zoomcar.zap.network;
+package com.zap.network;
 
 import android.app.Activity;
 import android.content.Context;
 
 import com.bluelinelabs.logansquare.LoganSquare;
-import com.zoomcar.zap.utils.ConstantUtil;
-import com.zoomcar.zap.utils.Logger;
-import com.zoomcar.zap.vo.BaseVO;
+import com.zap.utils.ConstantUtil;
+import com.zap.utils.Logger;
+import com.zap.vo.BaseVO;
 
 import java.io.IOException;
 import java.util.Map;

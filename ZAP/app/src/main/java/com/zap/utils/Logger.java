@@ -1,8 +1,8 @@
-package com.zoomcar.zap.utils;
+package com.zap.utils;
 
 import android.util.Log;
 
-import com.zoomcar.zap.BuildConfig;
+import com.zap.zap.BuildConfig;
 
 /**
  * Created by Prateek on 01/08/16.

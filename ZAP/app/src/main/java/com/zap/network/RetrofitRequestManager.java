@@ -1,4 +1,4 @@
-package com.zoomcar.zap.network;
+package com.zap.network;
 
 import com.github.aurae.retrofit2.LoganSquareConverterFactory;
 

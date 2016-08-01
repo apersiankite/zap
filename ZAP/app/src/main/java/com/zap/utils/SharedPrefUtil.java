@@ -1,4 +1,4 @@
-package com.zoomcar.zap.utils;
+package com.zap.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

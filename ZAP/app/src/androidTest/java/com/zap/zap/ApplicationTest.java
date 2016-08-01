@@ -1,4 +1,4 @@
-package com.zoomcar.zap;
+package com.zap.zap;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
